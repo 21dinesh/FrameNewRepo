@@ -27,5 +27,10 @@ public void createcontacTest() {
 	public void deleteContactTest() {
 		System.out.println("execution deleteContactTest ");
 	}
+	@Test
+	public void updateContactTest() {
+		System.out.println("Status Update");
+		
+	}
 }
 
